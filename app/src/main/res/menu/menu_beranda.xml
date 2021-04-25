@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.anila.stematel.bagiananila.beranda">
+
+    <item android:title="Home" android:icon="@drawable/home"/>
+    <item android:title="Chat" android:icon="@drawable/ic_baseline_chat_bubble_24"/>
+    <item android:title="Tes" android:icon="@drawable/ic_baseline_class_24"/>
+    <item android:title="Profile" android:icon="@drawable/ic_baseline_account_circle_24"/>
+</menu>
